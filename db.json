@@ -1,5 +1,16 @@
 {
   "hamburgers": [
-    
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 19:08:29 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        { "id": 235, "name": "meat", "price": 1.5 },
+        { "id": 249, "name": "bacon", "price": 0.75 },
+        { "id": 19, "name": "salad", "price": 0.25 },
+        { "id": 208, "name": "cheese", "price": 0.5 },
+        { "id": 138, "name": "grilled-meat", "price": 2 }
+      ],
+      "id": 1576804113600
+    }
   ]
 }
