@@ -2,13 +2,328 @@
   "hamburgers": [
     {
       "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:11:51 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 183,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 118,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 70,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 59,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 158,
+          "name": "cheese",
+          "price": 0.5
+        }
+      ],
+      "id": 1576811515413
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:11:38 GMT-0600 (Central Standard Time)",
+      "ingredients": [],
+      "id": 1576811503721
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:11:14 GMT-0600 (Central Standard Time)",
+      "ingredients": [],
+      "id": 1576811477561
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:11:00 GMT-0600 (Central Standard Time)",
+      "ingredients": [],
+      "id": 1576811463602
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:09:59 GMT-0600 (Central Standard Time)",
+      "ingredients": [],
+      "id": 1576811400550
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:09:44 GMT-0600 (Central Standard Time)",
+      "ingredients": [],
+      "id": 1576811386924
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:05:13 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 192,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 122,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 150,
+          "name": "cheese",
+          "price": 0.5
+        }
+      ],
+      "id": 1576811123454
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:04:58 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 140,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 3,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 215,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576811103936
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:04:42 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 142,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 3,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 16,
+          "name": "meat",
+          "price": 1.5
+        }
+      ],
+      "id": 1576811087557
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:04:07 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 248,
+          "name": "cheese",
+          "price": 0.5
+        },
+        {
+          "id": 11,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 1,
+          "name": "meat",
+          "price": 1.5
+        }
+      ],
+      "id": 1576811054877
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 21:03:50 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 85,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 22,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576811037120
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 20:59:16 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 72,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 39,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576810769505
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 20:56:41 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 121,
+          "name": "cheese",
+          "price": 0.5
+        },
+        {
+          "id": 50,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 0,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 143,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576810614283
+    },
+    {
+      "currency": "USD",
+      "creationDate": "Thu Dec 19 2019 20:55:21 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 247,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 219,
+          "name": "grilled-meat",
+          "price": 2
+        },
+        {
+          "id": 97,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 32,
+          "name": "cheese",
+          "price": 0.5
+        },
+        {
+          "id": 4,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 225,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 51,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576810554393
+    },
+    {
+      "currency": "EUR",
+      "creationDate": "Thu Dec 19 2019 19:41:35 GMT-0600 (Central Standard Time)",
+      "ingredients": [
+        {
+          "id": 62,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 15,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 214,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 204,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 52,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 142,
+          "name": "cheese",
+          "price": 0.5
+        },
+        {
+          "id": 111,
+          "name": "grilled-meat",
+          "price": 2
+        }
+      ],
+      "id": 1576806139856
+    },
+    {
+      "currency": "USD",
       "creationDate": "Thu Dec 19 2019 19:08:29 GMT-0600 (Central Standard Time)",
       "ingredients": [
-        { "id": 235, "name": "meat", "price": 1.5 },
-        { "id": 249, "name": "bacon", "price": 0.75 },
-        { "id": 19, "name": "salad", "price": 0.25 },
-        { "id": 208, "name": "cheese", "price": 0.5 },
-        { "id": 138, "name": "grilled-meat", "price": 2 }
+        {
+          "id": 235,
+          "name": "meat",
+          "price": 1.5
+        },
+        {
+          "id": 249,
+          "name": "bacon",
+          "price": 0.75
+        },
+        {
+          "id": 19,
+          "name": "salad",
+          "price": 0.25
+        },
+        {
+          "id": 208,
+          "name": "cheese",
+          "price": 0.5
+        },
+        {
+          "id": 138,
+          "name": "grilled-meat",
+          "price": 2
+        }
       ],
       "id": 1576804113600
     }
